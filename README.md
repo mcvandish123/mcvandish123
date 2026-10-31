@@ -24,10 +24,6 @@
 <br/><br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mcvandish123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=mcvandish123&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-
 ### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
