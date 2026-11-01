@@ -1,7 +1,9 @@
 <div align="center">
   
 # Benjamin diay sa wa kabalo
-  
+
+<img src="link.gif" alt="Link GIF" width="300">
+
 ## 🌐 Socials
 
 <a href="https://facebook.com/benjamin.asjali.5"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
