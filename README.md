@@ -2,7 +2,7 @@
   
 # Benjamin diay sa wa kabalo
 
-<img src="link.gif" alt="Link GIF" width="300">
+<img width="471" height="218" alt="210961" src="https://github.com/user-attachments/assets/8b7ea53f-68a5-404c-a554-7e0275958622" />
 
 ## 🌐 Socials
 
